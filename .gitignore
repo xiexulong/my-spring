@@ -1,0 +1,3 @@
+# Project exclude paths
+/spring-base1/target/
+/spring-mvc1/target/
